@@ -30,6 +30,5 @@
 
 /public/assets
 
-# Ignore key files for decrypting credentials and more.
-/config/*.key
-
+# Rails credentials
+/config/master.key
